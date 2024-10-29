@@ -1,4 +1,0 @@
-1. set up github repo
-- create new environment
-- setup.py
-- prepare requirements.txt
